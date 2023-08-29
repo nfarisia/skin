@@ -3,7 +3,6 @@ numpy
 pandas
 tensorflow
 matplotlib
-re
 cv2
 seaborn
 streamlit

@@ -3,7 +3,6 @@ numpy
 pandas
 tensorflow
 matplotlib
-base64
 random
 re
 cv2

@@ -7,5 +7,4 @@ seaborn
 pyxlsb
 scipy
 streamlit_option_menu
-PIL
 skimage

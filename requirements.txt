@@ -8,3 +8,4 @@ pyxlsb
 scipy
 streamlit_option_menu
 scikit-image
+opencv-python-headless

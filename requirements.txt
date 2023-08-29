@@ -7,4 +7,4 @@ seaborn
 pyxlsb
 scipy
 streamlit_option_menu
-skimage
+scikit-image

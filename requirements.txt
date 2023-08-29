@@ -4,8 +4,6 @@ pandas
 tensorflow
 matplotlib
 seaborn
-streamlit
-io
 pyxlsb
 scipy
 streamlit_option_menu
